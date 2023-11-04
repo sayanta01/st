@@ -5,9 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMono NF Light:pixelsize=19:antialias=true:autohint=true";
+static char *font = "JetBrainsMono NF Light:pixelsize=20:antialias=true:autohint=true";
 static char *font2[] = { "NotoColorEmoji:pixelsize=10:antialias=true:autohint=true" };
-static int borderpx = 10;
+static int borderpx = 6;
 
 /*
  * What program is execed by st depends of these precedence rules:
